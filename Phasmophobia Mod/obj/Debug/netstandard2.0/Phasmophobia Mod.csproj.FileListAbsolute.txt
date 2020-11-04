@@ -1,0 +1,66 @@
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Phasmophobia Mod.deps.json
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Phasmophobia Mod.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Phasmophobia Mod.pdb
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Il2Cppmscorlib.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\MelonLoader.ModHandler.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnhollowerBaseLib.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnhollowerRuntimeLib.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Unity.InputSystem.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Unity.InputSystem.RebindingUI.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.InputLegacyModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\PowerBooks.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\PhotonUnityNetworking.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\AntiCheat.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\PhotonRealtime.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Assembly-CSharp-firstpass.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Il2CppSystem.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Unity.Postprocessing.Runtime.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\PhotonVoice.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Il2CppSystem.Core.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Il2CppMono.Security.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Photon3Unity3D.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Iced.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.XRModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.AndroidJNIModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.SubsystemsModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.VFXModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Il2CppSystem.Configuration.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\Il2CppSystem.Xml.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\bin\Debug\netstandard2.0\PhotonVoice.API.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.csprojAssemblyReference.cache
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.csproj.CoreCompileInputs.cache
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.AssemblyInfoInputs.cache
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.AssemblyInfo.cs
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.csproj.CopyComplete
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.dll
+E:\Users\Aki\Files\GitHub\phasmophobia-mod\Phasmophobia Mod\Phasmophobia Mod\obj\Debug\netstandard2.0\Phasmophobia Mod.pdb
